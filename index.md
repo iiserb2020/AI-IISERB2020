@@ -46,7 +46,7 @@ In this post, we’ll look at some of the main ways to use NumPy and how it can 
 
 " />
     
-    <meta name="author" content="Jay Alammar" />
+  
 
     
     <meta property="og:title" content="A Visual Intro to NumPy and Data Representation" />
@@ -106,7 +106,6 @@ In this post, we’ll look at some of the main ways to use NumPy and how it can 
     <div class="wrapper-masthead">
       <div class="container">
         <header class="masthead clearfix">
-          <a href="/" class="site-avatar"><img src="https://avatars0.githubusercontent.com/u/1007956?s=460&v=4" /></a>
 
           <div class="site-info">
             <h1 class="site-name"><a href="/">Jay Alammar</a></h1>
